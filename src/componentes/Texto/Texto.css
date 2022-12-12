@@ -1,0 +1,30 @@
+button{
+    color: #000;
+    background: transparent;
+    border:solid 1px #000;
+    padding: 5px;
+    border-radius: 15px;
+    font-size: 12px;
+    cursor: pointer;
+    width: 150px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+button:hover{
+    background-color: #83d466;
+    border:solid 1px #83d466;
+    color: #fff;
+    transition: 0.5s;
+}
+
+/*texto*/
+
+.container-text{
+    padding: 150px 0 0 130px;
+}
+
+
+.text span{
+    color: #5f9ea0; 
+}
